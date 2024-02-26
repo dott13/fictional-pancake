@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: PrincessGarden1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: But alas, your marriage day approaches. And against your wish, you still
+      have to entertain the old customs. For your family.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: 5e83a214da044a64abc232be177411d5, type: 3}
+  - text: Visiting the princess is a small part of your duty, getting to know her
+      before the big day is crucial to it going well. You are brought to the princess's
+      garden.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: A touch of fresh air for once
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: "You hear the footsteps of heels coming down the stairs. It\u2019s the
+      princess"
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Your Highness, Princess Nyx Aetherfell, it is an honor to meet you in such
+      a splendid setting.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The pleasure is mine, Lord Cassian Vallrift. I've looked forward to our
+      meeting with great interest."
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The pleasure is mine, Lord Cassian Vallrift. I've looked forward to our
+      meeting with great interest."
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: I must commend the beauty of your castle's gardens. They are a testament
+      to the tranquility of Aetherfell.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Thank you. They are one of my favorite places to find peace and reflect.
+      Aetherfell has some of the most beautiful views in the entire world
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Indeed, it does. But what of the kingdom? What do you believe is its greatest
+      strength?
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: I believe it's the unity and resilience of our people. Despite any challenges,
+      we stand together, which has always been our greatest strength.
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Admirable qualities for any kingdom. Unity and resilience are indeed virtues
+      to be cherished.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: As we stand on the brink of uniting our lands, I hope those virtues become
+      even stronger. Tell me, Cassian, what are your hopes for our future together?
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: My hope is that together, we can stand up to the name of Aetherfell, and
+      do our duty as its leaders. Pleasing all the people and keeping the kingdom
+      strong
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: A noble vision, Cassian. I share your hope. May our union be a beacon of
+      peace and prosperity.
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: May it be so, Princess Nyx. Together, I believe there is much we can achieve.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: It seems like were both scoping each other out that whole conversation.
+      The advice my das has given me in business meetings seems to help even here.
+      I hope it went well
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Well then, shall we go and enjoy ourselves a bit?
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: a09c5bad94dc8d543a0e4d82ad087376, type: 3}
+  nextScene: {fileID: 11400000, guid: a13c701e7db17304ab248f158e40a65b, type: 2}

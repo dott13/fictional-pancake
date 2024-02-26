@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: QueenRoom1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: There's a pain in your back as your weary eyes slowly open to a dark, dimly
+      illuminated ceiling, with your head on a decent bed for the first time in a
+      while.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: As you try to sit up, the pain in the back of your head becomes sharper.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You turn your head around and notice the blurry insides of what seems to
+      be a gothic styled room.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: ' As your eyes wander and your vision comes back, you see a figure standing
+      in the middle of this grotesque place.'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: 69874a75f80bd22408525b460cac9aca, type: 3}
+  - text: You quickly recognize her white coloured dress, white hair, and um.. other
+      features.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Then her eyes meet yours, you shudder as you recollect your thoughts.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You've seen that violent red in her eyes before.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 2cd11ea204fcedc478a5778f77417246, type: 3}
+  nextScene: {fileID: 11400000, guid: cdae8d825677c9f459634ce237b126bd, type: 2}

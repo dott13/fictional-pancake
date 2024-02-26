@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Bar1Response2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: I want revenge Dimitri. I want Revenge for what they did to me.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: For daring to think I would take it sitting down like a dog without as
+      much of fight.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'Oh they thought wrong. And I plan to let them see just how wrong they
+      were. '
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 311975a1745489546ac5a0af89585f3f, type: 3}
+  nextScene: {fileID: 11400000, guid: 0f1183d419bb9c14fba4209338e72dc0, type: 2}

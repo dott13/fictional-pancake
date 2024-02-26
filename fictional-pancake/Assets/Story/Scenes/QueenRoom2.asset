@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: QueenRoom2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: HAHAHA. I don't think you could have found yourself at the hands of someone
+      better in this whole wide world kid.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You are in front of someone who can solve your whole situation, someone
+      who has the world at their feet, and someone who is actually incredibly bored
+      right now.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: And you amuse me. So I shall listen to any one request you have, AFTER
+      speaking to my associate in the library down the hall.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You see, I need to make sure you are worth my time, so be of use and amuse
+      me.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 0
+      actionType: 0
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: I have to know though, how did betrayal feel? I never trusted anyone enough
+      to experience it.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Well, it doesn't really seem like I am being given a choice here.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 2cd11ea204fcedc478a5778f77417246, type: 3}
+  nextScene: {fileID: 11400000, guid: 83ad18342f2ded5498cfcfe9840e6d8f, type: 2}

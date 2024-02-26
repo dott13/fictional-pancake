@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Library1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: The library is vast, with towering bookshelves filled with ancient tomes.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 8292ef74c874c2d4c9de58ba7ff437da, type: 3}
+  - text: 'You enter cautiously, spotting DMITRI, a demon librarian with mischievous
+      eyes, wearing a bowtie and glasses. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Are you Dmitri? The queen sent me to seek your guidance.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Ah, you found me, my droogie! Call me Dima or LORD Dima, my little chellovecheck.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: He speaks a specific slang, not a normal language. Seems demon-ish, the
+      words he is using are often used there, in the depths of hell.
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Alright, Dima. The queen said I need to speak to you, can you tell me why
+      Im here?
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: (grinning) So many questions, eh?
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Well, first things first, my pretty starry wanderer.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: What's your idea of a real horrorshow journey, a thing that can destroy
+      your insides, make you insane my malchick?
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: (confused) Horrorshow? I just need to know where to go.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: '(nodding knowingly) Righty right, my malchick. But here''s the kicker.
+      What''s the most bezoomny thing you ever did, like, in the dark alleys of your
+      yarbles? '
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: '"dark alleys of your yarbles" - an expression more known by "secrets that
+      you want to forget about"'
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: af2dee9b0e58def4697bbdd2f87718d0, type: 3}
+  nextScene: {fileID: 11400000, guid: d04c71025fb4bf2428643a1e9fd66d5d, type: 2}

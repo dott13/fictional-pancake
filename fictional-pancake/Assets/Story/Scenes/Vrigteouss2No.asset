@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Vrigteouss2No
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'I, I don''t want to hurt anyone. I don''t want to go back there. I want
+      to get away from it all, the people who hurt me. '
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: I cannot forgive whoever did this to me, but I cannot do anything without
+      knowing the true villain behind this. I just want to move on.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'The Queen slowly shuts her eyes and says:'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: "I understand. But you see, that wouldn\u2019t be a fun ending to this
+      story. And I get to decide how it ends."
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: As the Queen says that, a cloud of smoke envelops her body. You wait for
+      hours on end, frustrated by what she could be doing.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 3
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: "By how she went against your will. But then again, your life is in her
+      hands. You have no power to stop her. You can only hope she hasn\u2019t done
+      anything rash."
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Suddenly, you are enveloped by black smoke. You start moving in every direction,
+      and are unable to tell up from down, or left from right.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You pull yourself together and stop yourself from getting sick from all
+      the motion, barely holding on.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 152b2298c5e048f46814f2d2070af6fb, type: 3}
+  nextScene: {fileID: 11400000, guid: 29b6e27877b75584a94c2e64e25e6194, type: 2}

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: PrincessGarden2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: She leads you to a tea table in this beautiful garden, sitting you down
+      and giving you some of the most exquisite tea you've had.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'And as you spend the day discussing various topics, she comes up with
+      an interesting question:'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Say, Lord Cassian, what do you consider to be of most importance to you?
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: "She\u2019s once again testing me. I must answer this carefully."
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: a09c5bad94dc8d543a0e4d82ad087376, type: 3}
+  nextScene: {fileID: 11400000, guid: 066f3b72fb871824888d6af22cf11211, type: 2}

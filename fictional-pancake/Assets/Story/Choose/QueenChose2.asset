@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: QueenChose2
+  m_EditorClassIdentifier: 
+  labels:
+  - text: It was bound to happen
+    nextScene: {fileID: 11400000, guid: 44bac32263ece0e4487691b0500dd814, type: 2}
+  - text: It consumes you
+    nextScene: {fileID: 11400000, guid: e5e85deb0ed99384586477def4172805, type: 2}
+  - text: It isn't right
+    nextScene: {fileID: 11400000, guid: 80830dd8ad6f9d14a83e0e40af25199d, type: 2}

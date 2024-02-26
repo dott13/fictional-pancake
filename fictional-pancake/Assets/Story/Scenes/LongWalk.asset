@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: LongWalk
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Escorted by the guards, you are led through the winding corridors of the
+      castle, each step taking him further from the life he once knew.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The air grows colder, and a slight light begins shining through your eye
+      covers, as they approach the seldom-used rear exit, a portal to a fate far
+      removed from the destiny once promised to you.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 1aea8742714c4bd409de91413db4a00c, type: 3}
+  nextScene: {fileID: 11400000, guid: d7dfedc597fe1a748b479107b087a087, type: 2}

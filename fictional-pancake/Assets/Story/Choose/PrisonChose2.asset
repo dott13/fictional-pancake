@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: faa21d4123d556443abbbad79a10b72f, type: 3}
+  m_Name: PrisonChose2
+  m_EditorClassIdentifier: 
+  labels:
+  - text: Say nothing
+    nextScene: {fileID: 11400000, guid: 80f7dd9dd32042f44a16f625e260a142, type: 2}
+  - text: Who is it from?
+    nextScene: {fileID: 11400000, guid: 32f2d8b0f162d7447adba58c670cc9aa, type: 2}
+  - text: 'What is this? '
+    nextScene: {fileID: 11400000, guid: f9a8bb3fd2506f44d97e81c4770e7668, type: 2}

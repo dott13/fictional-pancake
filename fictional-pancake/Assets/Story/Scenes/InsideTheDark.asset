@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: InsideTheDark
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: The rattling of keys echoes through the dimly lit corridor, followed by
+      the heavy thud of the cell door swinging open.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Two stern-faced guards stand at the entrance, their expressions unreadable
+      under the flickering torchlight.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You, once poised to learn of the wonders of this world, now see your future
+      in their hands.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: a018e09475ef728429cd3f3dcc66426a, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Time to go, Vallrift. Your new kingdom awaits.
+    speaker: {fileID: 11400000, guid: a018e09475ef728429cd3f3dcc66426a, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Without a word, you steps forward, you esolve firm despite the chains that
+      bind him. There's a dignity in your posture, a silent protest against the injustice
+      that has befallen him.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The guards secure your bindings, and cover your eyes, ensuring no hope
+      of escape.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: a018e09475ef728429cd3f3dcc66426a, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 1aea8742714c4bd409de91413db4a00c, type: 3}
+  nextScene: {fileID: 11400000, guid: 2dfa3d6d429da074aa2c810d61a6eed8, type: 2}

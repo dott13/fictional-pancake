@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Villain3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: The power that of the leader of a nation of monsters was way beyond your
+      imagination.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The guards were instantly forced into submission, the most they could muster
+      up was standing on one knee in front of this god-like power.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Everyone else in the castle without the will of heart was knocked out from
+      the sheer bloodlust emanating from her.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Everyone except the royal family. Being knocked out would've been a blessing
+      for them, too rich of a blessing after all they did.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'They looked in terror as the guards fell one by one on their knees, to
+      a leader they''ve never seen, but who''s power could be felt. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The king guard tried to muster up a single word,
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: '"Who-" then he blinked. He blinked once, only to awaken his vision to
+      his own body, but separated from him.'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Before he could realize it, he was already looking at his corpse, and his
+      eyes slowly faded to grey and his blood was pouring out, the last words he
+      heard were "Pitiful"
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Then there stood the King. Tears welling up in his eyes, a scream caught
+      in his throat, as the monster that is laying siege to the castle single handedly
+      is approaching him
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Never seen blood splatter on the ground? Never seen a body convulsing even
+      after the head is cut off, a corpse beginning decay in front of your very eyes?
+      *This is your fault*.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Never seen blood splatter on the ground? Never seen a body convulsing even
+      after the head is cut off, a corpse beginning decay in front of your very eyes?
+      *This is your fault*.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: W-wait, what do you want? I can offer you anything, riches, the crown,
+      this entire castle, anything, but my life, PLEASE! You can even take the servants!
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Hahahaha, don't worry, your servants will be fine. Your nation will live
+      on without you. And above all, I don't see any worth in being offered something
+      I can take by myself.
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: With a swift, efficient motion, the blade slices off the king's head. As
+      his body falls to the ground, the Queen now holds in her hands her lifeless
+      head, to admire the view his family daunted itself to.
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 2
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: a09c5bad94dc8d543a0e4d82ad087376, type: 3}
+  nextScene: {fileID: 11400000, guid: ec5aeb4282fb779458027919f2ec88e2, type: 2}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: VillainScene
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'You tell a perfect recollection of every event that''s happened to you
+      so far. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Your life at the hand of others, and the betrayal you suffered, all because
+      of a destiny you never wished upon yourself.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You feel as if the Queen is a bit annoyed by the whole thing.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Upon hearing your story, the Queen pauses for a second. Her face looks
+      puzzled, and she seems to be considering your story.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 2
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: I can understand your frustration with the whole ordeal, I mean who wouldn't
+      be angry right?
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: What I just can't get is why didn't you just.... Kill Them All?
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Of course she would think that. In a nation where the victor is the strong,
+      anything else would've been unnatural for her.
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Dimitri then grabs her aside for a second and you can hear just small bits...
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: '" Oh really? Can''t ... Too weak? No fun"'
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Your ego is bruised a little by the random comments you hear but no matter.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 2
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 152b2298c5e048f46814f2d2070af6fb, type: 3}
+  nextScene: {fileID: 11400000, guid: 631988c739a56434483f0b3965ea10a5, type: 2}

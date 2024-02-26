@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Library1Response3
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: "I am a murderer, a killer, a nothing, and no one knows who I am and meant
+      to be. At least that\u2019s what EVERYONE thinks."
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Goody good, my malchik spalchik. But answer me this - what's it like, all
+      fleshy and bezoomny?
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: This guy is insane.
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: (smiling mysteriously) Think, my droog. Think sharpish, like a malenky
+      droog in a dark alley. It's the key to your staja, my chelloveck.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: takes a deep breath, trying to make sense of Dima's strange test.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: af2dee9b0e58def4697bbdd2f87718d0, type: 3}
+  nextScene: {fileID: 11400000, guid: 4d8791bec67c45542b5ce2d3a54f2e3d, type: 2}

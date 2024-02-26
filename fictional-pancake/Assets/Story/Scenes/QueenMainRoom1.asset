@@ -1,0 +1,91 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: QueenMainRoom1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: You find yourself in what you can only guess is the palace's throne room,
+      with Dimitri at your back.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: fcba6693e28ca5b499fc892ccc08ae2b, type: 3}
+  - text: 'As you enter, the Queen from her throne quickly glances at Dimitri with
+      a slight look of interest, and you see him nod back in confirmation. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The Queen's face suddenly lights up and her excitement becomes apparent.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: MARVELOUS! So, you managed to pass even that maniac's tests.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 3
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: He has a bit of a lose screw, but he is quite interesting if given the
+      chance, wouldn't you agree?
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: He's one of the few to bring some colour to this bleachy castle.
+    speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: '[You see a slight feeling of pride in Dimitri''s face]'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: b4283a539ad236543af98b5d7f7b3a63, type: 2}
+      spriteIndex: 3
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 275, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Well now, since a deal is a deal, let us hear your story.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: It is now time to tell your own story. The way you want it to be. Pick
+      carefully....
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The story of Cassian...
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 152b2298c5e048f46814f2d2070af6fb, type: 3}
+  nextScene: {fileID: 11400000, guid: b20f79aeb810092489a4d52e32fa2e1a, type: 2}

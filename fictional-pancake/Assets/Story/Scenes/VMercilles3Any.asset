@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: VMercilles3Any
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: You go for the King, you aim for his hand.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Let's see you bleed, if you still have a soul
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Blood splutters around the whole floor, right in front of his guards. His
+      body leans to the ground in a sigh of pain.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The king looks terrified. A single glance at you is enough to make his
+      eyes bloodshot and his face turn red. Yet he musters up the last strands of
+      courage to look you in the eyes and say.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Hahaha. You're just like me. See you in hell
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: His words furthermore fuel the fury you had in the blade, cutting off his
+      head with a rough motion.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'Swords were never your forte, but your newly found brute force allows
+      you to cut his neck off as his head slowly rolls on the floor in front of you. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Then your head starts pounding. Immeasurable pain and spasms take over
+      your whole body, as you start to recall all the events thus far.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: '[The price for this power] you think, as you fall slowly to the ground'
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: '[The price for this power] you think, as you fall slowly to the ground'
+    speaker: {fileID: 11400000, guid: 6ee3ebcde94454e4d8bb0394ddbb46be, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: 663c44b1e11d1394e978683e45db26db, type: 3}
+  - text: You wake up. There's blood everywhere. No more adrenaline high, no more
+      power, even the pain is all gone.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: All you have are rotting corpses in front of you. And their blood on your
+      hands.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You slowly walks through the halls of the castle as you see notice dead
+      guards. Dead guards everywhere.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'Their guts spill and their heads roll as the whole palace has been painted
+      red. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Have you done that? There is no way, the Queen must have attacked everyone.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'As you see one person crawling on the end of a long corridor, he suddenly
+      shudders looking at you and mutters '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Monster...MONSTER
+    speaker: {fileID: 11400000, guid: a018e09475ef728429cd3f3dcc66426a, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: All those people with loved ones, with goals, ended by your actions.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You pierce yourself with your own sword. You gouge your heart, ending the
+      cycle of revenge and blood, as the words continue in your head "I am just like
+      them"
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: ' I am just like them....Ha...hahaha....ahahhahaa '
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: a09c5bad94dc8d543a0e4d82ad087376, type: 3}
+  nextScene: {fileID: 11400000, guid: ec5aeb4282fb779458027919f2ec88e2, type: 2}

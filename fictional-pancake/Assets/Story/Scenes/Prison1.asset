@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Prison1
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: 'In the bowels of the castle, far removed from the light that graced its
+      upper levels,you find yourself confined to an old, decrepit cell. '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The air was damp and heavy, carrying the weight of despair from those who
+      had occupied this space before you.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Moss clung to the cold stone walls, a testament to the neglect and decay
+      that had taken over this part of the prison.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You sat on the hard, unforgiving floor, your back against the wall as you
+      tried to make sense of the whirlwind that had upended your life.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 4
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The dim light filtering in through the small, barred window above did little
+      to dispel the darkness that seemed to press in from all sides.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: "\u201CHow did it come to this?\" you whispered to yourself, the question
+      hanging in the air, unanswered."
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: The accusations, the look of betrayal in Nyx's eyes, and the king's decree
+      replayed over in his mind, each time like a fresh wound to his heart.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: He had hopes and dreams of a united future, of building something meaningful
+      with Nyx.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Now, those dreams lay in ruins, replaced by the harsh reality of his imprisonment
+      and the looming threat of an unknown judgment.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You closed his eyes, trying to shut out his surroundings and the turmoil
+      within.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Despite the despair that threatened to overwhelm him, a flicker of resolve
+      ignited within you.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 4
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 1aea8742714c4bd409de91413db4a00c, type: 3}
+  nextScene: {fileID: 11400000, guid: 65c22a57f51411145a945aa2ecd0d4bb, type: 2}

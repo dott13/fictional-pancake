@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: VVKill
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: You look the Queen in the eyes and give a slight nod. She understands.
+      In a split second, his head flies near his limping body in what will be his
+      forever cell.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: dbf521f5f1b083c46b6e5e76bb37dc9a, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: 'And now, you are free. Free from everyone. Free from any responsibilities
+      or expectations. Could there have been more to this story? '
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 4
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 8300000, guid: 925f303f5489afd459cee4d3a0c8f14a, type: 3}
+  - text: Why did he frame you? Those questions will remain forever in this one cell,
+      unanswered. You look up in hope as for once in your life....      [Are truly
+      free...]
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 1aea8742714c4bd409de91413db4a00c, type: 3}
+  nextScene: {fileID: 11400000, guid: ec5aeb4282fb779458027919f2ec88e2, type: 2}

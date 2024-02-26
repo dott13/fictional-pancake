@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: PrincessBetray
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: As summer faded, the usual anticipation for your visit to Princess Nyx
+      was shattered by an unforeseen and dark turn of events.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Upon your arrival, instead of being greeted with the customary warmth and
+      shared plans for the day, you were met with a chilling atmosphere.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 8300000, guid: 790afa75d95be00459630819900d4496, type: 3}
+  - text: The princess, her visage tainted by bruises all over her body and a demeanor
+      far from the happy and engaging partner you had come to know.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: How could you, Cassian? After everything, to attack me in such a cowardly
+      manner... I cannot fathom it.
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: 250, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: Nyx, I swear to you, I've done no such thing. This is madness. You must
+      believe me. I would never harm you.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 1
+      actionType: 1
+      coords: {x: -310, y: 25}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: The king is observing this interaction with a heavy heart but a resolve
+      shaped by the duty to protect his daughter and the kingdom, intervened.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Lord Cassian Vallrift, the evidence before us leaves us with little choice.
+      The safety of our princess and the sanctity of our kingdom are paramount.
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Until we can ascertain the truth, I have no option but to order your imprisonment.
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: And the guard lays upon you the evidence. A suit you often wear when visiting
+      the princess, now tainted by her own blood, found in one of the castle guest
+      rooms.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Your Majesty, please, you must believe me. I am innocent of these accusations.
+      There must be some mistake, some deception at play here.
+    speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'Nyx turns away as she says onto you:'
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: I wanted to believe in you, Cassian. But the evidence...
+    speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Take him away. He shall remain under guard until a judgment is made. Let
+      this be done swiftly and justly.
+    speaker: {fileID: 11400000, guid: 7dc98337bf98a49429a95e8fd72f684f, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: a0494671c5647d14282e6070d87837b4, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  - text: As Cassian was led away, the disbelief and shock on his face spoke volumes
+      of the betrayal he felt, not just by the situation but by the crumbling of
+      trust between him and Nyx, and the uncertain fate that awaited him.
+    speaker: {fileID: 11400000, guid: e67d78c209555204d83bff44b1584fec, type: 2}
+    actions: []
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: d708624e5ba7b9f4fb48b9653bb3f60a, type: 3}
+  nextScene: {fileID: 11400000, guid: bc4cd6ffb1474f343bbadadd877a57ae, type: 2}

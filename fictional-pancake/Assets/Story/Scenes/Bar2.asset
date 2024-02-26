@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51fb4c6070f247e48b4377b5728b8182, type: 3}
+  m_Name: Bar2
+  m_EditorClassIdentifier: 
+  sentences:
+  - text: Hmm, good. You may continue now. Good luck my chelloveck, I hope you make
+      the right choice.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: From now, I will be your guide or sayin' 'napravlenie' in this horrowshow.
+      I'll be your brains, my chelloveck, your sovetchik.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'And as your chelloveck, I will tell you more about the Queen:'
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: A vampire,by the name of Lilith Bludhart a being with an almost eternal
+      lifespan, who took careful measure and preparation to rise to her rank.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: You see, in a nation of monsters, the hierarchy is quickly decided by the
+      natural law, the power of the strong. Our leader is less of a Queen, and more
+      of a General.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Her power stands uncontested at the top of anyone inside this kingdom,
+      including me.
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'But constant rule has gotten boring for her, so she looks for amusement
+      where she can find it, the unexpected. '
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: 'Well for now my friend, you are that to her, so you better be able to
+      tell a good story to entertain the efforts she made to bring you here, and
+      perhaps even let you free. '
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions: []
+    music: {fileID: 0}
+  - text: Now, are you a good storyteller?
+    speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+    actions:
+    - speaker: {fileID: 11400000, guid: 408720f4c26a9f54995975d3b8775148, type: 2}
+      spriteIndex: 0
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    - speaker: {fileID: 11400000, guid: 973be9844eb08db41807b8cd25f868db, type: 2}
+      spriteIndex: 1
+      actionType: 3
+      coords: {x: 0, y: 0}
+      moveSpeed: 0
+    music: {fileID: 0}
+  background: {fileID: 21300000, guid: 311975a1745489546ac5a0af89585f3f, type: 3}
+  nextScene: {fileID: 11400000, guid: dbbd64e4161ded544947541cb0678635, type: 2}
